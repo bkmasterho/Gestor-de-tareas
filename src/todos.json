@@ -1,0 +1,42 @@
+{
+  "todos": [
+    {
+        "title" : "Tarea 1",
+        "responsible": "Oscar",
+        "description": "Bootstrap React",
+        "priority": "low"
+    },
+    {
+        "title" : "Tarea 2",
+        "responsible": "Sara",
+        "description": "Test",
+        "priority": "high"
+    },
+    {
+        "title" : "Tarea 3",
+        "responsible": "Oscar",
+        "description": "Test React",
+        "priority": "medium"
+    },
+    {
+        "title" : "Tarea 4",
+        "responsible": "Raul",
+        "description": "Añadir elementos",
+        "priority": "medium"
+    },
+    {
+        "title" : "Tarea 5",
+        "responsible": "Mariana",
+        "description": "Repasar CSS",
+        "priority": "medium"
+    },
+    {
+        "title" : "Tarea 6",
+        "responsible": "Manolo",
+        "description": "Pruebas",
+        "priority": "medium"
+    }
+
+  ]
+
+}
